@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e44495b-314b-428d-9edb-4f41597d7bc5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStructures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/SortAlgorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/binarySearchTree/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/binarySearchTree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/graph/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/hashTable/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/hashTable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/heap/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/heap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/linkedlist/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/linkedlist/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/linkedlist/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/stackAndQueue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/stackAndQueue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/stackAndQueue/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/LeetCode.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/algorithms/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QHYGRaN8pcNwZl2uWS3GsQxnHy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/programming/Java/dataStructures"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.dataStructures.hashTable.Main">
+    <configuration name="LeetCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.LeetCode" />
+      <module name="dataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructures.binarySearchTree.Main" />
+      <module name="dataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructures.binarySearchTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="algorithms.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.Main" />
+      <module name="dataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dataStructures.hashTable.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructures.hashTable.Main" />
+      <module name="dataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructures.hashTable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dataStructures.linkedlist.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructures.linkedlist.Main" />
+      <module name="dataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructures.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.dataStructures.hashTable.Main" />
+        <item itemvalue="Application.LeetCode" />
+        <item itemvalue="Application.algorithms.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.dataStructures.linkedlist.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e44495b-314b-428d-9edb-4f41597d7bc5" name="Changes" comment="" />
+      <created>1685011882373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685011882373</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
